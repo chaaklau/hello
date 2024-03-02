@@ -1,7 +1,7 @@
 [
     {
-		"prompt": "What is the full name of Chaak",
-		"answer": "Chaak is a Maya god of rain.",
+		"prompt": "This is an image: <br/> <img src='https://typeduck.hk/assets/images/image01.png'/>",
+		"answer": "<iframe width='560' height='315' src='https://www.youtube.com/embed/aTXY-k9AroU?si=YE2ZttWFrt5L19VV' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
 		"link": "I dont' know"
 	},
 	{
